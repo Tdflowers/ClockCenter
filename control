@@ -1,0 +1,9 @@
+Package: com.tylerflowers.clockcenter
+Name: ClockCenter
+Depends: firmware (>= 5.0), mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome analog clock and date widget for the notification center!
+Maintainer: Tyler Flowers
+Author: Tyler Flowers
+Section: Widgets
