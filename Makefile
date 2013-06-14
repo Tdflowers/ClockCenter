@@ -1,5 +1,3 @@
-THEOS_DEVICE_IP=10.0.0.10
-THEOS_DEVICE_PASSWORD = alpine
 SDK_VERSION= 5.0
 GO_EASY_ON_ME = 1
 include theos/makefiles/common.mk
